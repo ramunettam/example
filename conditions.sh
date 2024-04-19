@@ -1,0 +1,9 @@
+#!/bin/bash
+
+n1=$1
+n2=$2
+
+if[($n1>$n2)]
+then
+  echo"$n1 is bigger than $n2"
+  fi
